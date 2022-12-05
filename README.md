@@ -1,6 +1,7 @@
 # Machine-Learning-Term-Project-
 
 This project is a part of Machine Learning course offered in BITS Goa
+<br>
 We have tried to implement the paper - A Nonlinear Generalization of Singular Value Decomposition and Its Applications to Mathematical Modeling and Chaotic Cryptanalysis by 
 Prabhakar G. Vaidya · Sajini Anand P. S ·
 Nithin Nagaraj
