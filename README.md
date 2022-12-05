@@ -8,6 +8,8 @@ Nithin Nagaraj
 
 https://link.springer.com/article/10.1007/s10440-010-9560-z
 
+Problem Defination - This paper proposes an extension of SVD for both the qualitative detection and quantitative determination of non-linear time series
+
 we used the following links for some code snippets - 
 for duffing equation - https://galileo-unbound.blog/2019/03/20/georg-duffing-and-his-equation/ 
 
