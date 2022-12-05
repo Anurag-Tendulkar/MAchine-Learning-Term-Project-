@@ -1,1 +1,1 @@
-# MAchine-Learning-Term-Project-
+# Machine-Learning-Term-Project-
