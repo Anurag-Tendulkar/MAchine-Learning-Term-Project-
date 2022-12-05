@@ -15,3 +15,6 @@ we used the following links for some code snippets -
 for duffing equation - https://galileo-unbound.blog/2019/03/20/georg-duffing-and-his-equation/ 
 
 Acknowledgement - We would like to thank Prof. Harikrishnan N. B for his invaluable guidance and assistance throughout the course of this term project.
+
+Changes were made to the main code 
+The modified code is present in Modified Project branch
